@@ -6,7 +6,7 @@
 //logical operators
 //for loops
 //Math object
-//return statements
+//return statements  
 
 let player = {
     name: "Per",
